@@ -7,8 +7,8 @@
 
   /*========== Colors ==========*/
   /* Change favorite color */
-  --hue-color: 250;
-  /*Purple 250 - Green 142 - Blue 230 - Pink 340*/
+  --hue-color: 230;
+  /*Azul 230 - Purple 250 - Green 142 - Pink 340*/
 
   /* HSL color mode */
   --first-color: hsl(var(--hue-color), 69%, 61%);
@@ -539,23 +539,35 @@ textarea {
 }
 
 .skills__js {
-  width: 60%;
+  width: 70%;
 }
 
-.skills__react {
+.skills__node {
   width: 70%;
+}
+
+.skills__angular {
+  width: 85%;
+}
+
+.skills__typescript {
+  width: 80%;
+}
+
+.skills__laravel {
+  width: 75%;
+}
+
+.skills__postgresql {
+  width: 85%;
 }
 
 .skills__git {
-  width: 50%;
+  width: 80%;
 }
 
-.skills__vscode {
-  width: 70%;
-}
-
-.skills__social {
-  width: 60%;
+.skills__docker {
+  width: 65%;
 }
 
 .skills__close .skills__list {
