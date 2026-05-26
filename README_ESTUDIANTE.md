@@ -163,7 +163,7 @@ Portfolio-Website/
 
 ## URL del repositorio en GitHub
 
-> (Agregar URL después de publicar en GitHub)
+> (https://github.com/SekiroK5/Portafolio)
 
 ---
 
@@ -180,3 +180,16 @@ Para publicar el sitio con GitHub Pages:
 ---
 
 *Práctica realizada como parte del curso de Desarrollo Web — Instituto Tecnológico*
+
+Imagen del Portafolio Original
+<img width="1847" height="982" alt="image" src="https://github.com/user-attachments/assets/12650260-ae5d-42fc-b314-74e6f2aaa06c" />
+
+Imagen del portafoliio personalizado
+<img width="1800" height="989" alt="image" src="https://github.com/user-attachments/assets/92782566-0c7c-4f0e-9999-7fe48a00d9a6" />
+
+
+Imagen del repositorio clonado
+<img width="1153" height="532" alt="image" src="https://github.com/user-attachments/assets/b3bfbaca-ab09-4a08-b38b-09a38ba8681f" />
+
+
+
